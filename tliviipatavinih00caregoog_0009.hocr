@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./tliviipatavinih00caregoog_0009.png"; bbox 0 0 1792 2950; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 366 2399 565 2501">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 366 2399 565 2501">
+     <span class='ocr_line' id='line_1_1' title="bbox 366 2399 565 2439; baseline -0.005 -15"><span class='ocrx_word' id='word_1_1' title='bbox 366 2410 373 2417; x_wconf 80' lang='grc'>·“</span> <span class='ocrx_word' id='word_1_2' title='bbox 400 2408 415 2424; x_wconf 68' lang='lat' dir='ltr'>‘u</span> <span class='ocrx_word' id='word_1_3' title='bbox 448 2404 478 2426; x_wconf 63' lang='lat' dir='ltr'>n</span> <span class='ocrx_word' id='word_1_4' title='bbox 502 2399 565 2439; x_wconf 51' lang='lat'>82&amp;</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 377 2443 565 2501; baseline 0 -16"><span class='ocrx_word' id='word_1_5' title='bbox 377 2444 452 2485; x_wconf 54' lang='lat' dir='ltr'>vso-¹</span> <span class='ocrx_word' id='word_1_6' title='bbox 493 2443 565 2501; x_wconf 51' lang='lat'>‹⁸3⁴2-</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 900 2950">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 900 2950">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 900 2950; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 900 2950; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
